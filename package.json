@@ -29,6 +29,8 @@
   "homepage": "https://github.com/hortinstein/node-dash-button",
   "dependencies": {
     "cap": "^0.1.1",
+    "interface-addresses": "0.0.5",
+    "ip": "^1.1.3",
     "underscore": "^1.8.3"
   },
   "devDependencies": {

@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hortinstein/node-dash-button"
+    "url": "https://github.com/teebu/node-dash-button-winpcap"
   },
   "keywords": [
     "amazon",
@@ -24,9 +24,9 @@
   "author": "hortinstein",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hortinstein/node-dash-button/issues"
+    "url": "https://github.com/hortinstein/node-dash-button-winpcap/issues"
   },
-  "homepage": "https://github.com/hortinstein/node-dash-button",
+  "homepage": "https://github.com/hortinstein/node-dash-button-winpcap",
   "dependencies": {
     "cap": "^0.1.1",
     "interface-addresses": "0.0.5",

@@ -9,10 +9,6 @@ var stream = require('stream'),
     interfaceAddresses = require('interface-addresses'),
     addresses = interfaceAddresses()
 
-var hex_to_int_array = require('./helpers.js').hex_to_int_array;
-var int_array_to_hex = require('./helpers.js').int_array_to_hex;
-
-
 var create_session = function (arp_interface) {
     try {
           var c = new Cap(),

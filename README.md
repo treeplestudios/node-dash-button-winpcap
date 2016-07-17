@@ -8,6 +8,10 @@ This module was inspired by [this fantastic article by Edward Bensen](https://me
 
 It is a simple library that will allow you to utilize a dash button to emit an event.  I am using the same strategy of watching for dash generated ARP requests as the article above.
 
+
+#NOTE: this is a fork, using winpcap, so tests will fail
+
+
 ### Contents
 -----------------
 - [Installation Instructions](#installation-instructions)

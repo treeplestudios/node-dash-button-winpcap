@@ -74,8 +74,7 @@ var register = function(mac_addresses, arp_interface, timeout) {
 };
 
 if (process.env.NODE_ENV === 'test') {
-    module.exports = {  hex_to_int_array: hex_to_int_array, 
-                        int_array_to_hex: int_array_to_hex,
+    module.exports = {
                         create_session: create_session,
                         register: register
                     };
